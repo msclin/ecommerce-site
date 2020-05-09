@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ecommerce-site/static/css/main.2c5bdb88.chunk.css",
-    "main.js": "/ecommerce-site/static/js/main.92f3e29d.chunk.js",
-    "main.js.map": "/ecommerce-site/static/js/main.92f3e29d.chunk.js.map",
+    "main.css": "/ecommerce-site/static/css/main.e107391b.chunk.css",
+    "main.js": "/ecommerce-site/static/js/main.03d66358.chunk.js",
+    "main.js.map": "/ecommerce-site/static/js/main.03d66358.chunk.js.map",
     "runtime-main.js": "/ecommerce-site/static/js/runtime-main.64d1861f.js",
     "runtime-main.js.map": "/ecommerce-site/static/js/runtime-main.64d1861f.js.map",
-    "static/js/2.7d00ec29.chunk.js": "/ecommerce-site/static/js/2.7d00ec29.chunk.js",
-    "static/js/2.7d00ec29.chunk.js.map": "/ecommerce-site/static/js/2.7d00ec29.chunk.js.map",
+    "static/js/2.9426ccd7.chunk.js": "/ecommerce-site/static/js/2.9426ccd7.chunk.js",
+    "static/js/2.9426ccd7.chunk.js.map": "/ecommerce-site/static/js/2.9426ccd7.chunk.js.map",
     "index.html": "/ecommerce-site/index.html",
-    "precache-manifest.8e5b892c0dd7ce15bbdffa5631a53aa0.js": "/ecommerce-site/precache-manifest.8e5b892c0dd7ce15bbdffa5631a53aa0.js",
+    "precache-manifest.70b77eec286cea5a987aee216aa8b6df.js": "/ecommerce-site/precache-manifest.70b77eec286cea5a987aee216aa8b6df.js",
     "service-worker.js": "/ecommerce-site/service-worker.js",
-    "static/css/main.2c5bdb88.chunk.css.map": "/ecommerce-site/static/css/main.2c5bdb88.chunk.css.map",
-    "static/js/2.7d00ec29.chunk.js.LICENSE.txt": "/ecommerce-site/static/js/2.7d00ec29.chunk.js.LICENSE.txt"
+    "static/css/main.e107391b.chunk.css.map": "/ecommerce-site/static/css/main.e107391b.chunk.css.map",
+    "static/js/2.9426ccd7.chunk.js.LICENSE.txt": "/ecommerce-site/static/js/2.9426ccd7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.64d1861f.js",
-    "static/js/2.7d00ec29.chunk.js",
-    "static/css/main.2c5bdb88.chunk.css",
-    "static/js/main.92f3e29d.chunk.js"
+    "static/js/2.9426ccd7.chunk.js",
+    "static/css/main.e107391b.chunk.css",
+    "static/js/main.03d66358.chunk.js"
   ]
 }
